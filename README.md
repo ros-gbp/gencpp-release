@@ -1,3 +1,24 @@
+## gencpp (jade) - 0.5.3-0
+
+The packages in the `gencpp` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade gencpp` on `Wed, 24 Dec 2014 00:13:18 -0000`
+
+The `gencpp` package was released.
+
+Version of package(s) in repository `gencpp`:
+- upstream repository: git@github.com:ros/gencpp.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.5.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## gencpp (indigo) - 0.5.3-0
 
 The packages in the `gencpp` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo gencpp` on `Tue, 23 Dec 2014 02:28:44 -0000`
