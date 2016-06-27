@@ -1,3 +1,26 @@
+## gencpp (indigo) - 0.5.5-0
+
+The packages in the `gencpp` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo gencpp` on `Mon, 27 Jun 2016 22:03:41 -0000`
+
+The `gencpp` package was released.
+
+Version of package(s) in repository `gencpp`:
+
+- upstream repository: git@github.com:ros/gencpp.git
+- release repository: https://github.com/ros-gbp/gencpp-release.git
+- rosdistro version: `0.5.4-0`
+- old version: `0.5.4-0`
+- new version: `0.5.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## gencpp (indigo) - 0.5.4-0
 
 The packages in the `gencpp` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo gencpp` on `Mon, 14 Mar 2016 18:10:34 -0000`
