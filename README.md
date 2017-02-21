@@ -1,3 +1,26 @@
+## gencpp (lunar) - 0.5.5-0
+
+The packages in the `gencpp` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar gencpp` on `Tue, 21 Feb 2017 19:01:38 -0000`
+
+The `gencpp` package was released.
+
+Version of package(s) in repository `gencpp`:
+
+- upstream repository: git@github.com:ros/gencpp.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.5.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## gencpp (jade) - 0.5.5-0
 
 The packages in the `gencpp` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade gencpp` on `Mon, 27 Jun 2016 22:22:20 -0000`
