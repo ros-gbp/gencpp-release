@@ -1,3 +1,26 @@
+## gencpp (kinetic) - 0.5.5-0
+
+The packages in the `gencpp` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic gencpp` on `Mon, 06 Mar 2017 15:57:12 -0000`
+
+The `gencpp` package was released.
+
+Version of package(s) in repository `gencpp`:
+
+- upstream repository: git@github.com:ros/gencpp.git
+- release repository: https://github.com/ros-gbp/gencpp-release.git
+- rosdistro version: `0.5.4-0`
+- old version: `0.5.4-0`
+- new version: `0.5.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.24`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## gencpp (lunar) - 0.5.5-0
 
 The packages in the `gencpp` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar gencpp` on `Tue, 21 Feb 2017 19:01:38 -0000`
