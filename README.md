@@ -1,3 +1,26 @@
+## gencpp (melodic) - 0.6.2-0
+
+The packages in the `gencpp` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic gencpp` on `Mon, 18 Mar 2019 17:11:02 -0000`
+
+The `gencpp` package was released.
+
+Version of package(s) in repository `gencpp`:
+
+- upstream repository: git@github.com:ros/gencpp.git
+- release repository: https://github.com/ros-gbp/gencpp-release.git
+- rosdistro version: `0.6.1-0`
+- old version: `0.6.1-0`
+- new version: `0.6.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## gencpp (melodic) - 0.6.1-0
 
 The packages in the `gencpp` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic gencpp` on `Mon, 04 Mar 2019 23:39:22 -0000`
