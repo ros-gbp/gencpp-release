@@ -1,3 +1,26 @@
+## gencpp (noetic) - 0.6.3-1
+
+The packages in the `gencpp` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic gencpp` on `Sat, 25 Jan 2020 01:15:03 -0000`
+
+The `gencpp` package was released.
+
+Version of package(s) in repository `gencpp`:
+
+- upstream repository: git@github.com:ros/gencpp.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## gencpp (melodic) - 0.6.2-0
 
 The packages in the `gencpp` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic gencpp` on `Mon, 18 Mar 2019 17:11:02 -0000`
