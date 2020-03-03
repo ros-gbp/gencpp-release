@@ -2,6 +2,10 @@
 Changelog for package gencpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.5 (2020-03-03)
+------------------
+* add operator== & operator!= to message generation (`#41 <https://github.com/ros/gencpp/issues/41>`_)
+
 0.6.4 (2020-03-02)
 ------------------
 * [windows] reducing the odds to have name collisions (`#47 <https://github.com/ros/gencpp/issues/47>`_)
